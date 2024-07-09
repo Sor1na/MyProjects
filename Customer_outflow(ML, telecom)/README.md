@@ -68,10 +68,10 @@
 1. Клонируйте репозиторий и перейдите в директорию проекта.
 2. Установите необходимые зависимости с помощью команды:
    ```bash
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 3. Откройте Jupyter Notebook:
    ```bash
-   jupyter notebook telecom.ipynb```
+   jupyter notebook telecom.ipynb
 4. Запустите все ячейки, чтобы увидеть полный анализ и результаты
 
 ## КОНТАКТНАЯ ИНФОРМАЦИЯ
